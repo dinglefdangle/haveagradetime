@@ -1,2 +1,3 @@
 # haveagradetime
-An app that webscrapers MDCPS gradebook grades using selenium.
+A Kivy app that webscrapes MDCPS gradebook grades using Selenium.
+
