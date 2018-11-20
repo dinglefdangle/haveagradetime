@@ -9,8 +9,8 @@ options.add_argument('headless')
 driver = Chrome(chrome_options = options)
 driver.get('https://auth.dadeschools.net/_auth/dsLogon.aspx?ru=aHR0cDovL21kY3BzcG9ydGFsLmRhZGVzY2hvb2xzLm5ldC8=')
 
-username = '0240121'
-password = 'OnFGf165Lit'
+username = '*******'
+password = '********
 
 usernameBox = driver.find_element_by_id('txtUsername')
 usernameBox.send_keys(username)
